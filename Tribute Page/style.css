@@ -1,0 +1,53 @@
+h1{ 
+    text-align:center;
+    color: rgb(111, 8, 8);
+    background-color: black;
+}
+h3{
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+}
+h4{
+  color: white;
+  background-color: black;
+}
+
+#example1 {
+    background-image: url(shivaji-maharaj\ \(1\).jpg);
+    opacity:0.5;
+    background-repeat: no-repeat;
+    background-size:contain;
+    
+    background-position:left ;
+  }
+  p{
+    background-color: black;
+    text-align:center;
+    color:white;
+
+    width: 636px;
+    height: 109px;
+  }
+  div {
+    background:black url("shivaji-maharaj\ \(1\).jpg") no-repeat right top;
+    background-size:760px 350px;
+    margin-right: 80px;
+  }
+  body{
+    background-color: black;
+  }
+
+  button{
+   
+    padding: 10px 35px;
+    border-radius: 12px;
+    color: rgb(1, 51, 1);
+    size: 60px;
+  }
+
+  footer{
+    text-align: center;
+    background-color: black;
+    font-size: large;
+  }
